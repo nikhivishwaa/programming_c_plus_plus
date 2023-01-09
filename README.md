@@ -6,7 +6,7 @@ complete code notes for c++ basic to advance
 </p>
 <h1 align="center">
   <b>C++ NOTES</b><br>
- <a href="https://telegram.dog/SistecCP"><img src="img/tag.png" width="400" height="225"></a>
+ <a href="https://telegram.dog/SistecCP"><img src="img/tag.png" width="400" height="175"></a>
 </h1>
 
 
