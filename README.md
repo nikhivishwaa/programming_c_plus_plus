@@ -6,7 +6,7 @@ complete code notes for c++ basic to advance
 </p>
 <h1 align="center">
   <b>C++ NOTES</b><br>
- <a href="https://telegram.dog/Tech_ai_bots"><img src="img/tag.png"</a>
+ <a href="https://telegram.dog/Tech_ai_bots"><img src="img/tag.png" width+"300" height="100"></a>
 </h1>
 
 
@@ -14,7 +14,7 @@ complete code notes for c++ basic to advance
 
 ## Thanks & Credits to 
 
- - Thanks To [CodewithHarry](https://youtube.com/codewithharry) for Their Awesome [C++ TUTORIAL PLAYLIST](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
+ - Thanks To [CodewithHarry](https://youtube.com/codewithharry) for Their Awesome [C++ TUTORIAL PLAYLIST](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) 
  
  - Thanks To All Everyone In This Journey
 
