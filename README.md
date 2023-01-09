@@ -2,11 +2,11 @@
 complete code notes for c++ basic to advance
 
 <p align="center">
-<img src="img/cpp.png">
+<img src="img/cpp.png" width="600" height="600">
 </p>
 <h1 align="center">
   <b>C++ NOTES</b><br>
- <a href="https://telegram.dog/Tech_ai_bots"><img src="img/tag.png" width+"300" height="100"></a>
+ <a href="https://telegram.dog/SistecCP"><img src="img/tag.png" width="400" height="225"></a>
 </h1>
 
 
