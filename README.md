@@ -1,2 +1,4 @@
-# programming_c-
-complete xcode notes fo c++ basic to advance
+# programming c++
+complete code notes for c++ basic to advance
+
+<img src="img/cpp.png">
