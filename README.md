@@ -6,7 +6,7 @@ complete code notes for c++ basic to advance
 </p>
 <h1 align="center">
   <b>C++ NOTES</b><br>
- [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Tech_ai_bots)
+ <a href="https://telegram.dog/Tech_ai_bots"><img src="img/tag.png"</a>
 </h1>
 
 
