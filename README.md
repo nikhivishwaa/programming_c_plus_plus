@@ -2,7 +2,7 @@
 complete code notes for c++ basic to advance
 
 <p align="center">
-<img src="img/cpp.png" width="600" height="600">
+<img src="img/cpp.png" width="450" height="449">
 </p>
 <h1 align="center">
   <b>C++ NOTES</b><br>
